@@ -2,7 +2,7 @@
 int main()
 {
     int currVal = 0, val = 0;
-    if (std::cin >> val)
+    if (std::cin >> currVal)
     {
         int cnt = 1;
         while (std::cin >> val)
