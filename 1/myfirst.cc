@@ -8,5 +8,7 @@ int main(){
     cout << endl;
     cout << "You won't regret it!" << endl;
 
+    system("pause");
+
     return 0;
 }
